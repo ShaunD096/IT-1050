@@ -1,0 +1,9 @@
+C:\Users\Shaun\Desktop\Programing\Lab2 Solution\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\Shaun\Desktop\Programing\Lab2 Solution\Lab2\bin\Debug\Lab2.exe
+C:\Users\Shaun\Desktop\Programing\Lab2 Solution\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Shaun\Desktop\Programing\Lab2 Solution\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\Users\Shaun\Desktop\Programing\Lab2 Solution\Lab2\obj\Debug\Lab2.exe
+C:\Users\Shaun\Desktop\Programing\Lab2 Solution\Lab2\obj\Debug\Lab2.pdb
+C:\Users\Shaun\Documents\GitHub\IT 1050\Lab2 Solution\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\Shaun\Documents\GitHub\IT 1050\Lab2 Solution\Lab2\obj\Debug\Lab2.exe
+C:\Users\Shaun\Documents\GitHub\IT 1050\Lab2 Solution\Lab2\obj\Debug\Lab2.pdb
