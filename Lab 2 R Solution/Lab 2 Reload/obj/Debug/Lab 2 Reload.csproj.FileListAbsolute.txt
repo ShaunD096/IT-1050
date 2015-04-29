@@ -1,0 +1,2 @@
+C:\Users\Shaun\Desktop\Programing\Lab 2 R Solution\Lab 2 Reload\bin\Debug\Lab 2 Reload.exe.config
+C:\Users\Shaun\Documents\GitHub\IT 1050\Lab 2 R Solution\Lab 2 Reload\bin\Debug\Lab 2 Reload.exe.config
